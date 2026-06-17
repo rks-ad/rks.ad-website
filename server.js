@@ -22,5 +22,5 @@ app.get('/api/counter', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`);
+    console.log(`RKS.Ad running on port ${PORT}`);
 });
